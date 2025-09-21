@@ -7,7 +7,7 @@ import (
 )
 
 var R *rand.Rand
-var currencies = [4]string{"USD", "EUR", "CAD", "CNY"}
+var currencies = [4]string{USD, CAD, EUR, CNY}
 
 const alphabet = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
