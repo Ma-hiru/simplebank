@@ -3,8 +3,11 @@
   <component name="DataSourcePerFileMappings">
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/b61f95e6-6b1c-4e45-ad9b-bb0787d96ac3/console.sql" value="b61f95e6-6b1c-4e45-ad9b-bb0787d96ac3" />
     <file url="file://$PROJECT_DIR$/db/migration/000001_init_schema.up.sql" value="b61f95e6-6b1c-4e45-ad9b-bb0787d96ac3" />
+    <file url="file://$PROJECT_DIR$/db/migration/000002_add_users.down.sql" value="b61f95e6-6b1c-4e45-ad9b-bb0787d96ac3" />
+    <file url="file://$PROJECT_DIR$/db/migration/000002_add_users.up.sql" value="b61f95e6-6b1c-4e45-ad9b-bb0787d96ac3" />
     <file url="file://$PROJECT_DIR$/db/query/account.sql" value="b61f95e6-6b1c-4e45-ad9b-bb0787d96ac3" />
     <file url="file://$PROJECT_DIR$/db/query/entry.sql" value="b61f95e6-6b1c-4e45-ad9b-bb0787d96ac3" />
     <file url="file://$PROJECT_DIR$/db/query/transfer.sql" value="b61f95e6-6b1c-4e45-ad9b-bb0787d96ac3" />
+    <file url="file://$PROJECT_DIR$/db/query/user.sql" value="b61f95e6-6b1c-4e45-ad9b-bb0787d96ac3" />
   </component>
 </project>

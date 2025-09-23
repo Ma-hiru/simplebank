@@ -45,6 +45,9 @@ func configureRouter(server *Server) {
 	server.router.DELETE("/accounts/:id", server.deleteAccount)
 
 	server.router.POST("/transfers", server.createTransfer)
+
+	server.router.POST("/users", server.createUser)
+	server.router.GET("/users/:username", server.getUser)
 }
 
 func errResponse(err error) gin.H {
