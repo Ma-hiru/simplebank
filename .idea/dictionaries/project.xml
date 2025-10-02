@@ -2,6 +2,7 @@
   <dictionary name="project">
     <words>
       <w>migrateup</w>
+      <w>paseto</w>
       <w>sqlc</w>
     </words>
   </dictionary>
